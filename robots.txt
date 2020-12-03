@@ -1,1 +1,1 @@
-Sitemap: https://neelan.dev/neelan.dev/sitemap.xml
+Sitemap: https://neelan.dev/sitemap.xml
